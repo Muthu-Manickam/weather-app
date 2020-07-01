@@ -1,3 +1,4 @@
+// This file is to get forecast from the internet
 request = require('request')
 
 const forecast = (latitude,longitude,location,callback) => {
